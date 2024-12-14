@@ -16,8 +16,7 @@ SECRET_KEY = 'n+qfzy!zoth6))00$8mn^yrly+7rfq0wygs1kpn7$xh87*as97'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = os.environ['WEBSITE_HOSTNAME']
-
+ALLOWED_HOSTS = ['webapppython-b3fqbxeqcbbjg2hg.centralus-01.azurewebsites.net']
 
 # Application definition
 
