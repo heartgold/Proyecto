@@ -1,1 +1,1 @@
-ALLOWED_HOSTS = ['webapppython-b3fqbxeqcbbjg2hg.centralus-01.azurewebsites.net']
+ALLOWED_HOSTS = os.environ['WEBSITE_HOSTNAME']
