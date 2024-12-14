@@ -1,1 +1,0 @@
-ALLOWED_HOSTS = os.environ['WEBSITE_HOSTNAME']
